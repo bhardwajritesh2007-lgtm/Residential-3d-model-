@@ -1,7 +1,4 @@
-# 🏠 3D House Modeling – Presspull Assignment
-
-## 📘 Assignment Title
-*3D Assignment: Presspull, Union, Subtract, Intersect*
+# 🏠 3D House Modeling
 
 ## 🛠 Software Used
 - AutoCAD
